@@ -21,9 +21,9 @@ cd catalog-management-system
 ## 2. Configure Database
 Open src/main/resources/application.properties and update the following properties with your MySQL database details:
 
-spring.datasource.url=jdbc:mysql://localhost:3306/catalog_db
-spring.datasource.username=your-username
-spring.datasource.password=your-password
+spring.datasource.url=jdbc:mysql://localhost:3306/catalog_dbone
+spring.datasource.username=root 
+spring.datasource.password=Md@8969684321
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 
