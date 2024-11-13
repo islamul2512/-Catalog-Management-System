@@ -193,6 +193,7 @@ For testing the API endpoints, you can use Postman or Swagger:
 
 Postman: Import the provided Postman collection (if available) to test the endpoints.
 Swagger UI: Access Swagger at http://localhost:8080/swagger-ui/ if Swagger is configured.
+url is http://localhost:8080/swagger-ui/index.html
 Conclusion
 This Catalog Management System allows efficient management of products with features like pagination, searching, and CRUD operations. The system is built using Spring Boot, and it supports a RESTful API for seamless integration.
 
